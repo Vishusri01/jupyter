@@ -1,4 +1,4 @@
-# Jupyter
+
 
 *Read this in other languages: [English](README.md), [Español](README.es-ES.md), [Português](README.pt-BR.md)*
 
